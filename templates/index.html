@@ -1,0 +1,28 @@
+{% extends "conversion.html" %}
+
+{% block content %}
+<div>
+    <form method="POST" enctype="multipart/form-data">
+        <label for="input_file">Choose an input file (.xlsx, .po, .xml):</label>
+        <input type="file" name="input_file" id="input_file" accept=".xlsx, .po, .xml" required><br><br>
+
+        <label for="output_format">Select the output format:</label>
+        <select name="output_format" id="output_format" required>
+            <option value="po">.po</option>
+            <option value="xml">.xml</option>
+            <option value="xlsx">.xlsx</option>
+        </select><br><br>
+
+        <label for="output_file_name">Output File Name (without extension):</label>
+        <input type="text" name="output_file_name" id="output_file_name" required><br><br>
+
+        <input type="submit" value="Convert">
+    </form>
+
+    {% if message %}
+    <div>
+        <p>{{ message }}</p>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

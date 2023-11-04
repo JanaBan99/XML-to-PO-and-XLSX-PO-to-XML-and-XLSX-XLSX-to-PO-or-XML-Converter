@@ -1,0 +1,42 @@
+#
+msgid ""
+msgstr ""
+
+msgid "navigation_drawer_open"
+msgstr "Open navigation drawer"
+
+msgid "navigation_drawer_close"
+msgstr "Close navigation drawer"
+
+msgid "app_name"
+msgstr "SalesPlay POS"
+
+msgid "welcome_si"
+msgstr "Welcome"
+
+msgid "login_si"
+msgstr "Sign In"
+
+msgid "login_exp"
+msgstr "Software license has expired"
+
+msgid "pos"
+msgstr "POS"
+
+msgid "active_si"
+msgstr "Activate"
+
+msgid "loginout"
+msgstr "Log out"
+
+msgid "handlingmsg_err_offline"
+msgstr "Printer is offline.\\n"
+
+msgid "handlingmsg_err_wait_removal"
+msgstr "Please remove paper.\\n"
+
+msgid "handlingmsg_err_voltage"
+msgstr "Please check the voltage status.\\n"
+
+msgid "assign_other_staff"
+msgstr "Assign Other Staff"

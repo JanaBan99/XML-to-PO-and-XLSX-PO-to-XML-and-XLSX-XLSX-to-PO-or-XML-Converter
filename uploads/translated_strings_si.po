@@ -1,0 +1,96 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Manages sales"
+msgstr "විකුණුම් කළමනාකරණය කරයි"
+
+msgid "Cash management"
+msgstr "මුදල් කළමනාකරණය"
+
+msgid "Invoice"
+msgstr "ඉන්වොයිසිය"
+
+msgid "Cash refund"
+msgstr "මුදල් ආපසු ගෙවීම"
+
+msgid "Logout"
+msgstr "පිටවීම"
+
+msgid "All"
+msgstr "සෑම"
+
+msgid "admin"
+msgstr "පරිපාලක"
+
+msgid "POS"
+msgstr "POS"
+
+msgid "Backoffice"
+msgstr "ආපසු කාර්යාලය"
+
+msgid "Clear Items"
+msgstr "අයිතම ඉවත් කරන්න"
+
+msgid "Add other charges/tax"
+msgstr "වෙනත් ගාස්තු/බදු එකතු කරන්න"
+
+msgid "Sync"
+msgstr "සමමුහුර්ත කරන්න"
+
+msgid "Dine in"
+msgstr "කෑම කන්න"
+
+msgid "Take away"
+msgstr "අඩු කරන්න"
+
+msgid "Delivery"
+msgstr "භාරදීම"
+
+msgid "Subtotal"
+msgstr "උප එකතුව"
+
+msgid "Total Line Discount"
+msgstr "සම්පූර්ණ රේඛා වට්ටම්"
+
+msgid "Total Discount"
+msgstr "සම්පූර්ණ වට්ටම්"
+
+msgid "Charge"
+msgstr "අයකිරීම"
+
+msgid "New Order"
+msgstr "නව ඇණවුම"
+
+msgid "Table"
+msgstr "වගුව"
+
+msgid "Name"
+msgstr "නම"
+
+msgid "Number of People"
+msgstr "පුද්ගලයන් සංඛ්යාව"
+
+msgid "Create Ticket"
+msgstr "ටිකට් සාදන්න"
+
+msgid "Cancel"
+msgstr "අවලංගු කරන්න"
+
+msgid "Add Item"
+msgstr "අයිතමය එකතු කරන්න"
+
+msgid "Quantity"
+msgstr "ප්රමාණය"
+
+msgid "Unit price"
+msgstr "ඒකක මිල"
+
+msgid "Discount"
+msgstr "වට්ටම්"
+
+msgid "Remark"
+msgstr "සටහන් කරන්න"
+
+msgid "REMOVE FROM RECEIPT"
+msgstr "ලදුපතෙන් ඉවත් කරන්න"

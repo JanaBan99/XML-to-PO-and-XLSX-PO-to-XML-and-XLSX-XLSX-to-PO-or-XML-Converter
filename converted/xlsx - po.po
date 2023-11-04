@@ -1,0 +1,54 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Open navigation drawer"
+msgstr "සංචාලන ලාච්චුව විවෘත කරන්න"
+
+msgid "Close navigation drawer"
+msgstr "සංචාලන ලාච්චුව වසන්න"
+
+msgid "SalesPlay POS"
+msgstr "SalesPlay POS"
+
+msgid "Welcome"
+msgstr "සාදරයෙන් පිළිගනිමු"
+
+msgid "Sign In"
+msgstr "පුරන්න"
+
+msgid "Software license has expired"
+msgstr "මෘදුකාංග බලපත්‍රය කල් ඉකුත් වී ඇත"
+
+msgid "Activate"
+msgstr "සක්රිය කරන්න"
+
+msgid "Log out"
+msgstr "ලොග් අවුට් වෙන්න"
+
+msgid "Message"
+msgstr "පණිවුඩය"
+
+msgid "Calculator"
+msgstr "කැල්කියුලේටරය"
+
+msgid "Quick Support"
+msgstr "ඉක්මන් සහාය"
+
+msgid "Browser"
+msgstr "බ්රවුසරය"
+
+msgid "www.salesplay.com"
+msgstr "www.salesplay.com"
+
+msgid "SalesPlay + POS App © 2018 SalesPlay POS (Pvt) Ltd."
+msgstr "SalesPlay + POS යෙදුම © 2018 SalesPlay POS (Pvt) Ltd."
+
+msgid "Powered By SalesPlay POS"
+msgstr "SalesPlay POS මගින් බල ගැන්වේ"
+
+msgid "Access Denied"
+msgstr "ප්රවේශය ප්රතික්ෂේප විණි"
+
+msgid "App Messages"
+msgstr "යෙදුම් පණිවිඩ"
